@@ -1,0 +1,46 @@
+Ajax = {
+	showError : function(msgError, callbackError) {
+		Ext.Msg.alert('ERROR', msgError);
+	},
+	validateResponse : function(conn, response, options) {
+		var responseJSON = Ext.JSON.decode(response.responseText);
+		
+		if (responseJSON.success === false) {
+			Ajax.showError(responseJSON.msg);
+			options.success = options.failure;
+		}
+	},
+	showCapaLoading : function() {
+		var mask = new Ext.LoadMask(Ext.getBody(), {
+			msg : _lblcargando
+		});
+		mask.show()
+		Ext.getBody().mask(_lblcargando).dom.style.zIndex = '99999';
+		return mask
+	}
+}
+
+Ext.onReady(function() {
+	Ext.Ajax.on({
+		'beforerequest' : function(conn, options) {
+			if (options.showCapaLoading) {
+				options.capaLoading = Ajax.showCapaLoading();
+			}
+			options.method = options.method || (options.jsonData || options.params ? 'POST' : 'GET');
+		},
+		'requestcomplete' : function(conn, response, options) {
+			if (options.capaLoading) {
+				options.capaLoading.hide();
+				Ext.getBody().mask().hide();
+			}
+			Ajax.validateResponse(conn, response, options);
+		},
+		'requestexception' : function(conn, response, options) {
+			if (options.capaLoading) {
+				options.capaLoading.hide();
+				Ext.getBody().mask().hide();
+			}
+			Ajax.validateResponse(conn, response, options);
+		}
+	});
+});

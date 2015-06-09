@@ -1,0 +1,11 @@
+var WeatherStationView = function(){
+	this.model = new WeatherStationViewModel(this);
+	this.controller = new WeatherStationViewController(this, this.model);
+
+}  
+
+$(document).ready(function(){
+	  var weatherStationView = new WeatherStationView({
+		  
+	  });
+    });

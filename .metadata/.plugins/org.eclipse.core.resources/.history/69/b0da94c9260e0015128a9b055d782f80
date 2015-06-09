@@ -1,0 +1,16 @@
+package com.webapp.util.json;
+
+import java.io.IOException;
+
+import org.codehaus.jackson.map.ObjectMapper;
+
+public class UtilitiesJSON {
+
+	public static String objectToJSON(Object object) {
+		try {
+			return new ObjectMapper().writeValueAsString(object);
+		} catch (IOException e) {
+			return "";
+		}
+	}
+}

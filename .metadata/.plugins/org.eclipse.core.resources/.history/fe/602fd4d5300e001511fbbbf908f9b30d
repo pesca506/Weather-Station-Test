@@ -1,0 +1,6 @@
+var WeatherStationViewModel = function(view, model){
+	this.view = view;
+	this.model = model;
+	
+	
+}  

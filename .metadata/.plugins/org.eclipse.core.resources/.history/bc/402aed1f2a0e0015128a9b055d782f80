@@ -1,0 +1,4 @@
+var WeatherStationViewModel = function(view){
+	this.model = new WeatherStationViewModel(this);
+	this.controller = new WeatherStationViewController(this, this.model);
+}  

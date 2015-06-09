@@ -1,0 +1,7 @@
+var WeatherStationViewModel = function(view){
+	this.view = view;
+	
+	this.consultCityWeather = function(){
+		
+	}
+}  

@@ -1,0 +1,5 @@
+package com.webapp.util.constant;
+
+public interface Constant {
+	public static String PATH_IMAGES = "picturesMobiles/";
+}

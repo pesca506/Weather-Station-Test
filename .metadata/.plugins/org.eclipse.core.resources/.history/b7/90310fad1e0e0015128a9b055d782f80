@@ -1,0 +1,37 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8" pageEncoding="UTF-8"%>
+<%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core"%>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+<title>Mobile management</title>
+
+<link href='<c:url value="/libs/ExtJS5/ext-theme-crisp-all.css"></c:url>' rel="stylesheet">
+<script type="text/javascript" src='<c:url value="/libs/ExtJS5/ext-all.js"></c:url>'></script>
+
+<link href='<c:url value="/views/MobilesManagementView/resources/MobilesManagementView.css"></c:url>' rel="stylesheet">
+<script type="text/javascript" src='<c:url value="/general/js/constant/Constant.js"></c:url>'></script>
+<script type="text/javascript" src='<c:url value="/views/MobilesManagementView/app.js"></c:url>'></script>
+<script type="text/javascript" src='<c:url value="/general/js/ajax/Ajax.js"></c:url>'></script>
+<script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDCQey0oKmM7h-s4XxMUhArIYoMEktba9o">
+</script>
+
+<script type="text/javascript">
+  function initialize() {
+    var mapOptions = {
+      center: { lat: -34.397, lng: 150.644},
+      zoom: 8
+    };
+    var map = new google.maps.Map(document.getElementById('map-canvas'),
+        mapOptions);
+  }
+  google.maps.event.addDomListener(window, 'load', initialize);
+</script>
+
+</head>
+<body>
+
+</body>
+</html>

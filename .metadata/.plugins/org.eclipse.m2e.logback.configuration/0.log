@@ -1,0 +1,852 @@
+2015-06-08 21:37:01,142 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: WeatherStationTest:WeatherStationTest:0.0.1-SNAPSHOT @ /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/pom.xml.
+2015-06-08 21:37:01,840 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /WeatherStationTest/src
+2015-06-08 21:37:01,841 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /WeatherStationTest/src/test/java because it overlaps with /WeatherStationTest/src
+2015-06-08 21:37:02,073 [Worker-3] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: WeatherStationTest:WeatherStationTest:0.0.1-SNAPSHOT @ /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/pom.xml.
+2015-06-08 21:37:02,114 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-08 21:37:02,115 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/main/resources
+2015-06-08 21:37:02,117 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-08 21:37:02,118 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/test/resources
+2015-06-08 21:37:02,241 [Worker-0] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2015-06-08 21:37:02,260 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: WeatherStationTest:WeatherStationTest:0.0.1-SNAPSHOT @ /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/pom.xml.
+2015-06-08 21:37:02,349 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /WeatherStationTest/src
+2015-06-08 21:37:02,349 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /WeatherStationTest/src/test/java because it overlaps with /WeatherStationTest/src
+2015-06-08 21:37:03,060 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: WeatherStationTest:WeatherStationTest:0.0.1-SNAPSHOT @ /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/pom.xml.
+2015-06-08 21:37:03,102 [Worker-0] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for WeatherStationTest
+2015-06-08 21:37:03,119 [Worker-0] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2015-06-08 21:37:03,234 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-08 21:37:03,234 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/main/resources
+2015-06-08 21:37:03,235 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-08 21:37:03,236 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/test/resources
+2015-06-08 21:37:07,932 [Worker-3] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: WeatherStationTest:WeatherStationTest:0.0.1-SNAPSHOT @ /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/pom.xml.
+2015-06-08 21:37:07,972 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-08 21:37:07,973 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/main/resources
+2015-06-08 21:37:07,974 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-08 21:37:07,974 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/test/resources
+2015-06-08 21:39:54,441 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-08 21:39:54,441 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/main/resources
+2015-06-08 21:39:54,443 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-08 21:39:54,443 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/test/resources
+2015-06-08 21:41:02,397 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-08 21:41:02,397 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/main/resources
+2015-06-08 21:41:02,398 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-08 21:41:02,398 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/test/resources
+2015-06-08 21:41:14,664 [Worker-15] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-08 21:41:14,665 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/main/resources
+2015-06-08 21:41:14,666 [Worker-15] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-08 21:41:14,666 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/test/resources
+2015-06-08 21:42:27,054 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-08 21:42:27,054 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/main/resources
+2015-06-08 21:42:27,055 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-08 21:42:27,055 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/test/resources
+2015-06-08 21:42:35,666 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-08 21:42:35,666 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/main/resources
+2015-06-08 21:42:35,669 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-08 21:42:35,669 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/test/resources
+2015-06-08 21:42:54,437 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-08 21:42:54,438 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/main/resources
+2015-06-08 21:42:54,439 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-08 21:42:54,439 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/test/resources
+2015-06-08 21:44:04,274 [Worker-17] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: WeatherStationTest:WeatherStationTest:0.0.1-SNAPSHOT @ /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/pom.xml.
+2015-06-08 21:44:05,005 [Worker-17] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-08 21:44:05,005 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/main/resources
+2015-06-08 21:44:05,006 [Worker-17] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-08 21:44:05,006 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/test/resources
+2015-06-08 21:44:05,007 [Worker-17] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of WeatherStationTest
+2015-06-08 21:44:05,007 [Worker-17] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for WeatherStationTest
+2015-06-08 21:44:05,010 [Worker-17] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.apache.maven.plugins:maven-clean-plugin:jar:2.5 is missing, no dependency information available
+2015-06-08 21:44:05,012 [Worker-17] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.apache.maven.plugins:maven-install-plugin:jar:2.4 is missing, no dependency information available
+2015-06-08 21:44:05,020 [Worker-17] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-08 21:44:05,022 [Worker-17] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of WeatherStationTest
+2015-06-08 21:44:05,023 [Worker-17] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for WeatherStationTest
+2015-06-08 21:44:05,025 [Worker-17] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-08 21:44:06,654 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-08 21:44:06,654 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/main/resources
+2015-06-08 21:44:06,655 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-08 21:44:06,656 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/test/resources
+2015-06-08 22:02:25,567 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-08 22:02:25,568 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/main/resources
+2015-06-08 22:02:25,569 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-08 22:02:25,570 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/test/resources
+2015-06-08 22:02:57,555 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-08 22:02:57,556 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/main/resources
+2015-06-08 22:02:57,557 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-08 22:02:57,557 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/test/resources
+2015-06-08 22:03:22,287 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-08 22:03:22,287 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/main/resources
+2015-06-08 22:03:22,288 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-08 22:03:22,289 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/test/resources
+2015-06-08 22:03:37,394 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-08 22:03:37,394 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/main/resources
+2015-06-08 22:03:37,395 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-08 22:03:37,395 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/test/resources
+2015-06-08 22:04:09,591 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-08 22:04:09,591 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/main/resources
+2015-06-08 22:04:09,593 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-08 22:04:09,593 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/test/resources
+2015-06-08 22:04:41,925 [Start Help Server] INFO  org.eclipse.jetty.server.Server - jetty-8.1.16.v20140903
+2015-06-08 22:04:41,955 [Start Help Server] INFO  o.e.jetty.server.AbstractConnector - Started SelectChannelConnector@127.0.0.1:56937
+2015-06-08 22:05:42,711 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-08 22:05:42,711 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/main/resources
+2015-06-08 22:05:42,713 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-08 22:05:42,713 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/test/resources
+2015-06-08 22:05:53,375 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-08 22:05:53,375 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/main/resources
+2015-06-08 22:05:53,376 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-08 22:05:53,376 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/test/resources
+2015-06-08 22:06:41,015 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-08 22:06:41,016 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/main/resources
+2015-06-08 22:06:41,018 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-08 22:06:41,018 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/test/resources
+2015-06-08 22:07:08,919 [Worker-30] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-08 22:07:08,920 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/main/resources
+2015-06-08 22:07:08,921 [Worker-30] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-08 22:07:08,921 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/test/resources
+2015-06-08 22:07:13,744 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-08 22:07:13,745 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/main/resources
+2015-06-08 22:07:13,746 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-08 22:07:13,746 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/test/resources
+2015-06-08 22:08:00,654 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-08 22:08:00,654 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/main/resources
+2015-06-08 22:08:00,655 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-08 22:08:00,655 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/test/resources
+2015-06-08 22:08:53,803 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-08 22:08:53,804 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/main/resources
+2015-06-08 22:08:53,804 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-08 22:08:53,805 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/test/resources
+2015-06-08 22:09:18,069 [Worker-30] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-08 22:09:18,069 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/main/resources
+2015-06-08 22:09:18,070 [Worker-30] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-08 22:09:18,070 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/test/resources
+2015-06-08 22:12:05,840 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-08 22:12:05,840 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/main/resources
+2015-06-08 22:12:05,841 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-08 22:12:05,841 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/test/resources
+2015-06-08 22:12:07,229 [Worker-30] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-08 22:12:07,229 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/main/resources
+2015-06-08 22:12:07,230 [Worker-30] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-08 22:12:07,230 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/test/resources
+2015-06-08 22:12:11,414 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-08 22:12:11,415 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/main/resources
+2015-06-08 22:12:11,416 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-08 22:12:11,416 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/test/resources
+2015-06-08 22:15:05,308 [Worker-30] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-08 22:15:05,308 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/main/resources
+2015-06-08 22:15:05,309 [Worker-30] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-08 22:15:05,309 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/test/resources
+2015-06-08 22:15:25,545 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-08 22:15:25,545 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/main/resources
+2015-06-08 22:15:25,547 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-08 22:15:25,547 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/test/resources
+2015-06-08 22:16:38,671 [Worker-27] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-08 22:16:38,672 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/main/resources
+2015-06-08 22:16:38,673 [Worker-27] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-08 22:16:38,673 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/test/resources
+2015-06-08 22:18:21,404 [Worker-36] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-08 22:18:21,405 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/main/resources
+2015-06-08 22:18:21,406 [Worker-36] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-08 22:18:21,406 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/test/resources
+2015-06-08 22:20:19,416 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-08 22:20:19,416 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/main/resources
+2015-06-08 22:20:19,417 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-08 22:20:19,417 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/test/resources
+2015-06-08 22:20:46,591 [Worker-35] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-08 22:20:46,592 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/main/resources
+2015-06-08 22:20:46,593 [Worker-35] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-08 22:20:46,593 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/test/resources
+2015-06-08 22:34:47,215 [Worker-45] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-08 22:34:47,216 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/main/resources
+2015-06-08 22:34:47,217 [Worker-45] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-08 22:34:47,218 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/test/resources
+2015-06-08 22:35:24,795 [Worker-40] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-08 22:35:24,795 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/main/resources
+2015-06-08 22:35:24,796 [Worker-40] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-08 22:35:24,796 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/test/resources
+2015-06-08 22:37:02,174 [Worker-36] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-08 22:37:02,175 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/main/resources
+2015-06-08 22:37:02,175 [Worker-36] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-08 22:37:02,176 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/test/resources
+2015-06-08 22:37:14,411 [Worker-45] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-08 22:37:14,412 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/main/resources
+2015-06-08 22:37:14,413 [Worker-45] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-08 22:37:14,413 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/test/resources
+2015-06-08 22:37:28,300 [Worker-47] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-08 22:37:28,300 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/main/resources
+2015-06-08 22:37:28,301 [Worker-47] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-08 22:37:28,301 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/test/resources
+2015-06-08 22:37:36,426 [Worker-36] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-08 22:37:36,427 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/main/resources
+2015-06-08 22:37:36,427 [Worker-36] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-08 22:37:36,428 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/test/resources
+2015-06-08 22:39:05,956 [Worker-41] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-08 22:39:05,956 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/main/resources
+2015-06-08 22:39:05,957 [Worker-41] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-08 22:39:05,957 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/test/resources
+2015-06-08 22:39:12,628 [Worker-41] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-08 22:39:12,629 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/main/resources
+2015-06-08 22:39:12,630 [Worker-41] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-08 22:39:12,630 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/test/resources
+2015-06-08 22:39:58,415 [Worker-36] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-08 22:39:58,416 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/main/resources
+2015-06-08 22:39:58,417 [Worker-36] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-08 22:39:58,417 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/test/resources
+2015-06-08 22:42:21,919 [Worker-41] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-08 22:42:21,920 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/main/resources
+2015-06-08 22:42:21,921 [Worker-41] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-08 22:42:21,921 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/test/resources
+2015-06-08 22:42:30,624 [Worker-41] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-08 22:42:30,625 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/main/resources
+2015-06-08 22:42:30,625 [Worker-41] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-08 22:42:30,625 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/test/resources
+2015-06-08 22:42:37,663 [Worker-51] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-08 22:42:37,663 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/main/resources
+2015-06-08 22:42:37,664 [Worker-51] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-08 22:42:37,665 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/test/resources
+2015-06-08 22:42:57,211 [Worker-36] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-08 22:42:57,211 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/main/resources
+2015-06-08 22:42:57,212 [Worker-36] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-08 22:42:57,213 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/test/resources
+2015-06-08 22:43:07,848 [Worker-41] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-08 22:43:07,848 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/main/resources
+2015-06-08 22:43:07,849 [Worker-41] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-08 22:43:07,850 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/test/resources
+2015-06-08 22:43:18,721 [Worker-41] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-08 22:43:18,722 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/main/resources
+2015-06-08 22:43:18,723 [Worker-41] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-08 22:43:18,723 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/test/resources
+2015-06-08 22:43:37,964 [Worker-41] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-08 22:43:37,964 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/main/resources
+2015-06-08 22:43:37,965 [Worker-41] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-08 22:43:37,965 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/test/resources
+2015-06-08 22:45:30,399 [Worker-45] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-08 22:45:30,399 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/main/resources
+2015-06-08 22:45:30,401 [Worker-45] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-08 22:45:30,401 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/test/resources
+2015-06-08 22:46:32,849 [Worker-53] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-08 22:46:32,849 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/main/resources
+2015-06-08 22:46:32,850 [Worker-53] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-08 22:46:32,850 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/test/resources
+2015-06-08 22:46:52,296 [Worker-57] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-08 22:46:52,297 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/main/resources
+2015-06-08 22:46:52,298 [Worker-57] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-08 22:46:52,298 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/test/resources
+2015-06-08 22:47:08,337 [Worker-45] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-08 22:47:08,338 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/main/resources
+2015-06-08 22:47:08,339 [Worker-45] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-08 22:47:08,339 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/test/resources
+2015-06-08 22:53:38,350 [Worker-50] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-08 22:53:38,350 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/main/resources
+2015-06-08 22:53:38,351 [Worker-50] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-08 22:53:38,352 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/test/resources
+2015-06-08 22:53:56,076 [Worker-62] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-08 22:53:56,076 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/main/resources
+2015-06-08 22:53:56,077 [Worker-62] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-08 22:53:56,077 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/test/resources
+2015-06-08 22:57:53,033 [Worker-64] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-08 22:57:53,033 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/main/resources
+2015-06-08 22:57:53,034 [Worker-64] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-08 22:57:53,034 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/test/resources
+2015-06-08 22:59:11,845 [Worker-61] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-08 22:59:11,845 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/main/resources
+2015-06-08 22:59:11,846 [Worker-61] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-08 22:59:11,846 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/test/resources
+2015-06-08 23:00:00,420 [Worker-64] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-08 23:00:00,421 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/main/resources
+2015-06-08 23:00:00,421 [Worker-64] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-08 23:00:00,422 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/test/resources
+2015-06-08 23:00:52,194 [Worker-63] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-08 23:00:52,195 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/main/resources
+2015-06-08 23:00:52,195 [Worker-63] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-08 23:00:52,196 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/test/resources
+2015-06-08 23:01:15,652 [Worker-68] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-08 23:01:15,652 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/main/resources
+2015-06-08 23:01:15,653 [Worker-68] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-08 23:01:15,653 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/test/resources
+2015-06-08 23:02:52,152 [Worker-69] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-08 23:02:52,153 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/main/resources
+2015-06-08 23:02:52,154 [Worker-69] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-08 23:02:52,154 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/test/resources
+2015-06-08 23:02:59,708 [Worker-67] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-08 23:02:59,708 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/main/resources
+2015-06-08 23:02:59,709 [Worker-67] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-08 23:02:59,709 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/test/resources
+2015-06-08 23:06:08,406 [Worker-69] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-08 23:06:08,406 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/main/resources
+2015-06-08 23:06:08,407 [Worker-69] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-08 23:06:08,407 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/test/resources
+2015-06-08 23:08:01,273 [Worker-73] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-08 23:08:01,274 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/main/resources
+2015-06-08 23:08:01,275 [Worker-73] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-08 23:08:01,276 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/test/resources
+2015-06-08 23:08:30,146 [Worker-74] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-08 23:08:30,147 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/main/resources
+2015-06-08 23:08:30,147 [Worker-74] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-08 23:08:30,148 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/test/resources
+2015-06-08 23:16:21,466 [Worker-77] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-08 23:16:21,468 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/main/resources
+2015-06-08 23:16:21,469 [Worker-77] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-08 23:16:21,469 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/test/resources
+2015-06-08 23:17:06,907 [Worker-82] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-08 23:17:06,907 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/main/resources
+2015-06-08 23:17:06,908 [Worker-82] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-08 23:17:06,909 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/test/resources
+2015-06-08 23:20:10,055 [Worker-81] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-08 23:20:10,056 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/main/resources
+2015-06-08 23:20:10,057 [Worker-81] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-08 23:20:10,058 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/test/resources
+2015-06-08 23:20:16,908 [Worker-77] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-08 23:20:16,908 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/main/resources
+2015-06-08 23:20:16,909 [Worker-77] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-08 23:20:16,909 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/test/resources
+2015-06-08 23:20:20,938 [Worker-77] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-08 23:20:20,939 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/main/resources
+2015-06-08 23:20:20,940 [Worker-77] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-08 23:20:20,940 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/test/resources
+2015-06-08 23:21:02,179 [Worker-77] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-08 23:21:02,180 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/main/resources
+2015-06-08 23:21:02,181 [Worker-77] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-08 23:21:02,181 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/test/resources
+2015-06-08 23:26:46,529 [Worker-86] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for WeatherStationTest
+2015-06-08 23:26:46,931 [Worker-82] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-08 23:26:46,931 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/main/resources
+2015-06-08 23:26:46,932 [Worker-82] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-08 23:26:46,933 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/test/resources
+2015-06-08 23:27:16,149 [Worker-90] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-08 23:27:16,149 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/main/resources
+2015-06-08 23:27:16,150 [Worker-90] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-08 23:27:16,151 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/test/resources
+2015-06-08 23:27:37,655 [Worker-87] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-08 23:27:37,655 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/main/resources
+2015-06-08 23:27:37,656 [Worker-87] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-08 23:27:37,656 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/test/resources
+2015-06-08 23:28:03,748 [Worker-89] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-08 23:28:03,748 [Worker-89] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/main/resources
+2015-06-08 23:28:03,749 [Worker-89] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-08 23:28:03,749 [Worker-89] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/test/resources
+2015-06-08 23:28:53,346 [Worker-77] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: WeatherStationTest:WeatherStationTest:0.0.1-SNAPSHOT @ /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/pom.xml.
+2015-06-08 23:28:53,893 [Worker-77] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-08 23:28:53,893 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/main/resources
+2015-06-08 23:28:53,894 [Worker-77] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-08 23:28:53,894 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/test/resources
+2015-06-08 23:29:20,280 [Worker-92] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-08 23:29:20,281 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/main/resources
+2015-06-08 23:29:20,282 [Worker-92] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-08 23:29:20,282 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/test/resources
+2015-06-08 23:36:45,499 [Worker-95] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-08 23:36:45,500 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/main/resources
+2015-06-08 23:36:45,501 [Worker-95] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-08 23:36:45,501 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/test/resources
+2015-06-08 23:37:45,190 [Worker-96] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-08 23:37:45,190 [Worker-96] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/main/resources
+2015-06-08 23:37:45,191 [Worker-96] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-08 23:37:45,191 [Worker-96] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/test/resources
+2015-06-08 23:38:12,445 [Worker-91] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-08 23:38:12,445 [Worker-91] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/main/resources
+2015-06-08 23:38:12,446 [Worker-91] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-08 23:38:12,446 [Worker-91] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/test/resources
+2015-06-08 23:38:25,610 [Worker-95] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-08 23:38:25,610 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/main/resources
+2015-06-08 23:38:25,611 [Worker-95] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-08 23:38:25,612 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/test/resources
+2015-06-08 23:38:46,102 [Worker-90] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-08 23:38:46,102 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/main/resources
+2015-06-08 23:38:46,103 [Worker-90] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-08 23:38:46,103 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/test/resources
+2015-06-08 23:39:01,150 [Stop Help Server] INFO  o.e.j.server.handler.ContextHandler - stopped o.e.j.s.ServletContextHandler{/help,null}
+2015-06-08 23:39:32,420 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-08 23:39:32,422 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/main/resources
+2015-06-08 23:39:32,424 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-08 23:39:32,425 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/test/resources
+2015-06-08 23:39:38,211 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-08 23:39:38,211 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/main/resources
+2015-06-08 23:39:38,212 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-08 23:39:38,213 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/test/resources
+2015-06-08 23:40:22,366 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-08 23:40:22,367 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/main/resources
+2015-06-08 23:40:22,368 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-08 23:40:22,368 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/test/resources
+2015-06-08 23:40:28,078 [Worker-8] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for WeatherStationTest
+2015-06-08 23:40:28,373 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-08 23:40:28,373 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/main/resources
+2015-06-08 23:40:28,374 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-08 23:40:28,374 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/test/resources
+2015-06-08 23:44:49,904 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-08 23:44:49,905 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/main/resources
+2015-06-08 23:44:49,908 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-08 23:44:49,908 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/test/resources
+2015-06-08 23:45:19,125 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-08 23:45:19,125 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/main/resources
+2015-06-08 23:45:19,126 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-08 23:45:19,126 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/test/resources
+2015-06-08 23:45:44,026 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-08 23:45:44,027 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/main/resources
+2015-06-08 23:45:44,028 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-08 23:45:44,028 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/test/resources
+2015-06-08 23:48:42,117 [Worker-15] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-08 23:48:42,118 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/main/resources
+2015-06-08 23:48:42,121 [Worker-15] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-08 23:48:42,121 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/test/resources
+2015-06-08 23:49:37,556 [Worker-17] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-08 23:49:37,557 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/main/resources
+2015-06-08 23:49:37,558 [Worker-17] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-08 23:49:37,558 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/test/resources
+2015-06-08 23:51:01,502 [Worker-17] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-08 23:51:01,502 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/main/resources
+2015-06-08 23:51:01,503 [Worker-17] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-08 23:51:01,504 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/test/resources
+2015-06-08 23:51:19,993 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-08 23:51:19,993 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/main/resources
+2015-06-08 23:51:19,994 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-08 23:51:19,994 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/test/resources
+2015-06-08 23:52:53,613 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-08 23:52:53,613 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/main/resources
+2015-06-08 23:52:53,614 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-08 23:52:53,614 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/test/resources
+2015-06-08 23:53:01,018 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-08 23:53:01,018 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/main/resources
+2015-06-08 23:53:01,019 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-08 23:53:01,019 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/test/resources
+2015-06-08 23:53:42,739 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-08 23:53:42,739 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/main/resources
+2015-06-08 23:53:42,741 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-08 23:53:42,741 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/test/resources
+2015-06-08 23:53:46,002 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-08 23:53:46,002 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/main/resources
+2015-06-08 23:53:46,004 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-08 23:53:46,004 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/test/resources
+2015-06-08 23:53:59,522 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-08 23:53:59,522 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/main/resources
+2015-06-08 23:53:59,524 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-08 23:53:59,524 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/test/resources
+2015-06-09 00:03:11,018 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-09 00:03:11,019 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/main/resources
+2015-06-09 00:03:11,019 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-09 00:03:11,020 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/test/resources
+2015-06-09 00:04:22,288 [Worker-25] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-09 00:04:22,289 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/main/resources
+2015-06-09 00:04:22,290 [Worker-25] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-09 00:04:22,290 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/test/resources
+2015-06-09 00:04:52,496 [Worker-25] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-09 00:04:52,496 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/main/resources
+2015-06-09 00:04:52,497 [Worker-25] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-09 00:04:52,498 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/test/resources
+2015-06-09 00:06:55,341 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-09 00:06:55,342 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/main/resources
+2015-06-09 00:06:55,343 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-09 00:06:55,343 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/test/resources
+2015-06-09 00:08:24,183 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-09 00:08:24,184 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/main/resources
+2015-06-09 00:08:24,185 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-09 00:08:24,185 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/test/resources
+2015-06-09 00:10:28,318 [Worker-27] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-09 00:10:28,318 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/main/resources
+2015-06-09 00:10:28,319 [Worker-27] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-09 00:10:28,319 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/test/resources
+2015-06-09 00:12:31,716 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-09 00:12:31,716 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/main/resources
+2015-06-09 00:12:31,717 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-09 00:12:31,717 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/test/resources
+2015-06-09 00:12:48,738 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-09 00:12:48,739 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/main/resources
+2015-06-09 00:12:48,740 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-09 00:12:48,740 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/test/resources
+2015-06-09 00:14:33,428 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-09 00:14:33,428 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/main/resources
+2015-06-09 00:14:33,429 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-09 00:14:33,429 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/test/resources
+2015-06-09 00:14:57,807 [Worker-36] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-09 00:14:57,807 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/main/resources
+2015-06-09 00:14:57,808 [Worker-36] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-09 00:14:57,808 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/test/resources
+2015-06-09 00:18:38,966 [Start Help Server] INFO  org.eclipse.jetty.server.Server - jetty-8.1.16.v20140903
+2015-06-09 00:18:38,993 [Start Help Server] INFO  o.e.jetty.server.AbstractConnector - Started SelectChannelConnector@127.0.0.1:58139
+2015-06-09 00:18:44,599 [Worker-44] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-09 00:18:44,600 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/main/resources
+2015-06-09 00:18:44,601 [Worker-44] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-09 00:18:44,602 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/test/resources
+2015-06-09 00:19:18,771 [Worker-43] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-09 00:19:18,771 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/main/resources
+2015-06-09 00:19:18,772 [Worker-43] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-09 00:19:18,772 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/test/resources
+2015-06-09 00:26:48,840 [Worker-56] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-09 00:26:48,840 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/main/resources
+2015-06-09 00:26:48,841 [Worker-56] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-09 00:26:48,841 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/test/resources
+2015-06-09 00:26:58,493 [Worker-54] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-09 00:26:58,493 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/main/resources
+2015-06-09 00:26:58,494 [Worker-54] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-09 00:26:58,494 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/test/resources
+2015-06-09 00:29:18,327 [Worker-52] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-09 00:29:18,327 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/main/resources
+2015-06-09 00:29:18,328 [Worker-52] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-09 00:29:18,328 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/test/resources
+2015-06-09 00:31:24,255 [Worker-56] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-09 00:31:24,256 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/main/resources
+2015-06-09 00:31:24,257 [Worker-56] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-09 00:31:24,257 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/test/resources
+2015-06-09 00:31:48,461 [Worker-54] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-09 00:31:48,461 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/main/resources
+2015-06-09 00:31:48,462 [Worker-54] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-09 00:31:48,462 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/test/resources
+2015-06-09 00:32:28,960 [Worker-62] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-09 00:32:28,960 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/main/resources
+2015-06-09 00:32:28,962 [Worker-62] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-09 00:32:28,962 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/test/resources
+2015-06-09 00:33:48,822 [Worker-62] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-09 00:33:48,822 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/main/resources
+2015-06-09 00:33:48,823 [Worker-62] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-09 00:33:48,823 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/test/resources
+2015-06-09 00:35:06,719 [Worker-56] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-09 00:35:06,719 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/main/resources
+2015-06-09 00:35:06,720 [Worker-56] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-09 00:35:06,720 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/test/resources
+2015-06-09 00:36:53,148 [Worker-57] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-09 00:36:53,148 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/main/resources
+2015-06-09 00:36:53,149 [Worker-57] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-09 00:36:53,149 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/test/resources
+2015-06-09 00:37:19,391 [Worker-52] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-09 00:37:19,391 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/main/resources
+2015-06-09 00:37:19,392 [Worker-52] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-09 00:37:19,393 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/test/resources
+2015-06-09 00:39:50,345 [Worker-69] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-09 00:39:50,345 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/main/resources
+2015-06-09 00:39:50,346 [Worker-69] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-09 00:39:50,346 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/test/resources
+2015-06-09 00:41:06,920 [Worker-54] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-09 00:41:06,921 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/main/resources
+2015-06-09 00:41:06,922 [Worker-54] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-09 00:41:06,922 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/test/resources
+2015-06-09 00:41:21,955 [Worker-67] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-09 00:41:21,956 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/main/resources
+2015-06-09 00:41:21,957 [Worker-67] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-09 00:41:21,957 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/test/resources
+2015-06-09 00:44:29,880 [Worker-54] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-09 00:44:29,881 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/main/resources
+2015-06-09 00:44:29,882 [Worker-54] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-09 00:44:29,882 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/test/resources
+2015-06-09 00:44:33,880 [Worker-56] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-09 00:44:33,881 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/main/resources
+2015-06-09 00:44:33,882 [Worker-56] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-09 00:44:33,882 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/test/resources
+2015-06-09 00:49:39,834 [Worker-54] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-09 00:49:39,835 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/main/resources
+2015-06-09 00:49:39,836 [Worker-54] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-09 00:49:39,836 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/test/resources
+2015-06-09 00:51:50,571 [Worker-77] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-09 00:51:50,572 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/main/resources
+2015-06-09 00:51:50,573 [Worker-77] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-09 00:51:50,573 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/test/resources
+2015-06-09 00:53:09,595 [Worker-81] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-09 00:53:09,595 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/main/resources
+2015-06-09 00:53:09,596 [Worker-81] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-09 00:53:09,596 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/test/resources
+2015-06-09 01:02:41,282 [Worker-86] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-09 01:02:41,283 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/main/resources
+2015-06-09 01:02:41,285 [Worker-86] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-09 01:02:41,285 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/test/resources
+2015-06-09 01:03:19,602 [Worker-87] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-09 01:03:19,602 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/main/resources
+2015-06-09 01:03:19,603 [Worker-87] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-09 01:03:19,603 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/test/resources
+2015-06-09 01:16:20,513 [Worker-94] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-09 01:16:20,514 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/main/resources
+2015-06-09 01:16:20,515 [Worker-94] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-09 01:16:20,515 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/test/resources
+2015-06-09 01:17:58,876 [Worker-87] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-09 01:17:58,876 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/main/resources
+2015-06-09 01:17:58,877 [Worker-87] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-09 01:17:58,877 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/test/resources
+2015-06-09 01:18:17,201 [Worker-93] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-09 01:18:17,201 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/main/resources
+2015-06-09 01:18:17,203 [Worker-93] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-09 01:18:17,203 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/test/resources
+2015-06-09 01:18:19,429 [Worker-87] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-09 01:18:19,430 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/main/resources
+2015-06-09 01:18:19,431 [Worker-87] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-09 01:18:19,431 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/test/resources
+2015-06-09 01:18:23,938 [Worker-94] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-09 01:18:23,938 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/main/resources
+2015-06-09 01:18:23,939 [Worker-94] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-09 01:18:23,940 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/test/resources
+2015-06-09 01:18:27,658 [Worker-87] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-09 01:18:27,658 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/main/resources
+2015-06-09 01:18:27,659 [Worker-87] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-09 01:18:27,660 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/test/resources
+2015-06-09 01:18:43,632 [Worker-93] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-09 01:18:43,633 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/main/resources
+2015-06-09 01:18:43,634 [Worker-93] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-09 01:18:43,634 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/test/resources
+2015-06-09 01:30:06,164 [Worker-100] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-09 01:30:06,165 [Worker-100] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/main/resources
+2015-06-09 01:30:06,166 [Worker-100] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-09 01:30:06,167 [Worker-100] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/test/resources
+2015-06-09 01:35:52,310 [Worker-101] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-09 01:35:52,312 [Worker-101] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/main/resources
+2015-06-09 01:35:52,313 [Worker-101] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-09 01:35:52,314 [Worker-101] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/test/resources
+2015-06-09 01:38:01,301 [Worker-104] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-09 01:38:01,302 [Worker-104] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/main/resources
+2015-06-09 01:38:01,303 [Worker-104] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-09 01:38:01,303 [Worker-104] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/test/resources
+2015-06-09 01:38:24,909 [Worker-106] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-09 01:38:24,910 [Worker-106] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/main/resources
+2015-06-09 01:38:24,911 [Worker-106] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-09 01:38:24,911 [Worker-106] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/test/resources
+2015-06-09 01:38:29,563 [Worker-106] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-09 01:38:29,563 [Worker-106] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/main/resources
+2015-06-09 01:38:29,564 [Worker-106] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-09 01:38:29,564 [Worker-106] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/test/resources
+2015-06-09 01:39:29,334 [Worker-104] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-09 01:39:29,334 [Worker-104] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/main/resources
+2015-06-09 01:39:29,335 [Worker-104] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-09 01:39:29,335 [Worker-104] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/test/resources
+2015-06-09 01:40:15,575 [Worker-100] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-09 01:40:15,576 [Worker-100] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/main/resources
+2015-06-09 01:40:15,577 [Worker-100] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-09 01:40:15,577 [Worker-100] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/test/resources
+2015-06-09 01:40:35,890 [Worker-104] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-09 01:40:35,891 [Worker-104] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/main/resources
+2015-06-09 01:40:35,892 [Worker-104] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-09 01:40:35,892 [Worker-104] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/test/resources
+2015-06-09 01:41:28,296 [Worker-107] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-09 01:41:28,297 [Worker-107] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/main/resources
+2015-06-09 01:41:28,298 [Worker-107] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-09 01:41:28,298 [Worker-107] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/test/resources
+2015-06-09 01:43:53,473 [Worker-112] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-09 01:43:53,474 [Worker-112] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/main/resources
+2015-06-09 01:43:53,475 [Worker-112] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-09 01:43:53,475 [Worker-112] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/test/resources
+2015-06-09 01:47:07,180 [Worker-112] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-09 01:47:07,182 [Worker-112] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/main/resources
+2015-06-09 01:47:07,183 [Worker-112] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-09 01:47:07,183 [Worker-112] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/test/resources
+2015-06-09 01:49:10,018 [Worker-112] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-09 01:49:10,018 [Worker-112] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/main/resources
+2015-06-09 01:49:10,019 [Worker-112] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-09 01:49:10,020 [Worker-112] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/test/resources
+2015-06-09 01:52:34,349 [Worker-117] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-09 01:52:34,350 [Worker-117] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/main/resources
+2015-06-09 01:52:34,351 [Worker-117] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-09 01:52:34,351 [Worker-117] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/test/resources
+2015-06-09 01:54:15,524 [Worker-117] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-09 01:54:15,525 [Worker-117] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/main/resources
+2015-06-09 01:54:15,526 [Worker-117] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-09 01:54:15,526 [Worker-117] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/test/resources
+2015-06-09 01:54:26,194 [Worker-120] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-09 01:54:26,194 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/main/resources
+2015-06-09 01:54:26,195 [Worker-120] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-09 01:54:26,196 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/test/resources
+2015-06-09 01:55:15,202 [Worker-111] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-09 01:55:15,202 [Worker-111] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/main/resources
+2015-06-09 01:55:15,203 [Worker-111] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-09 01:55:15,204 [Worker-111] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/test/resources
+2015-06-09 01:55:27,648 [Worker-117] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-09 01:55:27,648 [Worker-117] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/main/resources
+2015-06-09 01:55:27,649 [Worker-117] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-09 01:55:27,649 [Worker-117] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/test/resources
+2015-06-09 01:57:40,732 [Worker-117] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-09 01:57:40,732 [Worker-117] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/main/resources
+2015-06-09 01:57:40,733 [Worker-117] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-09 01:57:40,734 [Worker-117] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/test/resources
+2015-06-09 01:59:22,551 [Worker-117] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-09 01:59:22,551 [Worker-117] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/main/resources
+2015-06-09 01:59:22,552 [Worker-117] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-09 01:59:22,552 [Worker-117] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/test/resources
+2015-06-09 01:59:24,778 [Worker-124] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-09 01:59:24,778 [Worker-124] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/main/resources
+2015-06-09 01:59:24,779 [Worker-124] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-09 01:59:24,780 [Worker-124] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/test/resources
+2015-06-09 01:59:37,003 [Worker-124] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-09 01:59:37,004 [Worker-124] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/main/resources
+2015-06-09 01:59:37,005 [Worker-124] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-09 01:59:37,005 [Worker-124] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/test/resources
+2015-06-09 02:01:07,961 [Worker-124] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-09 02:01:07,961 [Worker-124] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/main/resources
+2015-06-09 02:01:07,962 [Worker-124] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-09 02:01:07,962 [Worker-124] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/test/resources
+2015-06-09 02:03:39,888 [Worker-123] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-09 02:03:39,890 [Worker-123] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/main/resources
+2015-06-09 02:03:39,891 [Worker-123] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-09 02:03:39,892 [Worker-123] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/test/resources
+2015-06-09 02:04:09,209 [Worker-129] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-09 02:04:09,209 [Worker-129] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/main/resources
+2015-06-09 02:04:09,210 [Worker-129] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-09 02:04:09,211 [Worker-129] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/test/resources
+2015-06-09 02:05:31,189 [Worker-117] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-09 02:05:31,189 [Worker-117] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/main/resources
+2015-06-09 02:05:31,190 [Worker-117] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-09 02:05:31,190 [Worker-117] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/test/resources
+2015-06-09 02:05:41,038 [Worker-117] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-09 02:05:41,038 [Worker-117] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/main/resources
+2015-06-09 02:05:41,039 [Worker-117] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-09 02:05:41,040 [Worker-117] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/test/resources
+2015-06-09 02:07:03,636 [Worker-128] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-09 02:07:03,637 [Worker-128] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/main/resources
+2015-06-09 02:07:03,638 [Worker-128] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-09 02:07:03,638 [Worker-128] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/test/resources
+2015-06-09 02:07:58,649 [Worker-123] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-09 02:07:58,649 [Worker-123] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/main/resources
+2015-06-09 02:07:58,650 [Worker-123] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-09 02:07:58,650 [Worker-123] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/test/resources
+2015-06-09 02:09:00,259 [Worker-128] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-09 02:09:00,259 [Worker-128] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/main/resources
+2015-06-09 02:09:00,260 [Worker-128] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-09 02:09:00,260 [Worker-128] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/test/resources
+2015-06-09 02:10:02,210 [Worker-134] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-09 02:10:02,210 [Worker-134] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/main/resources
+2015-06-09 02:10:02,212 [Worker-134] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-09 02:10:02,212 [Worker-134] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/test/resources
+2015-06-09 02:10:28,799 [Worker-128] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-09 02:10:28,800 [Worker-128] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/main/resources
+2015-06-09 02:10:28,801 [Worker-128] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-09 02:10:28,801 [Worker-128] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/test/resources
+2015-06-09 02:11:30,457 [Worker-123] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-09 02:11:30,458 [Worker-123] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/main/resources
+2015-06-09 02:11:30,463 [Worker-123] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-09 02:11:30,464 [Worker-123] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/test/resources
+2015-06-09 02:12:08,027 [Worker-132] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-09 02:12:08,029 [Worker-132] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/main/resources
+2015-06-09 02:12:08,032 [Worker-132] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-09 02:12:08,033 [Worker-132] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/test/resources
+2015-06-09 02:12:18,888 [Worker-123] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-09 02:12:18,889 [Worker-123] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/main/resources
+2015-06-09 02:12:18,894 [Worker-123] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-09 02:12:18,895 [Worker-123] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/test/resources
+2015-06-09 02:12:28,742 [Worker-123] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-09 02:12:28,744 [Worker-123] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/main/resources
+2015-06-09 02:12:28,747 [Worker-123] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-09 02:12:28,748 [Worker-123] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/test/resources
+2015-06-09 02:13:50,233 [Worker-137] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-09 02:13:50,234 [Worker-137] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/main/resources
+2015-06-09 02:13:50,239 [Worker-137] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-09 02:13:50,240 [Worker-137] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/test/resources
+2015-06-09 02:14:41,419 [Worker-132] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-09 02:14:41,421 [Worker-132] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/main/resources
+2015-06-09 02:14:41,424 [Worker-132] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-09 02:14:41,426 [Worker-132] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/test/resources
+2015-06-09 02:15:40,320 [Worker-137] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-09 02:15:40,321 [Worker-137] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/main/resources
+2015-06-09 02:15:40,325 [Worker-137] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-09 02:15:40,326 [Worker-137] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/test/resources
+2015-06-09 02:17:01,016 [Worker-140] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-09 02:17:01,017 [Worker-140] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/main/resources
+2015-06-09 02:17:01,021 [Worker-140] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-09 02:17:01,022 [Worker-140] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/test/resources
+2015-06-09 02:17:12,125 [Worker-133] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-09 02:17:12,126 [Worker-133] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/main/resources
+2015-06-09 02:17:12,130 [Worker-133] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-09 02:17:12,131 [Worker-133] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/test/resources
+2015-06-09 02:18:43,643 [Worker-141] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-09 02:18:43,644 [Worker-141] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/main/resources
+2015-06-09 02:18:43,648 [Worker-141] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-09 02:18:43,649 [Worker-141] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/test/resources
+2015-06-09 02:22:11,713 [Worker-144] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-09 02:22:11,713 [Worker-144] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/main/resources
+2015-06-09 02:22:11,714 [Worker-144] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-09 02:22:11,715 [Worker-144] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/test/resources
+2015-06-09 02:23:41,373 [Worker-145] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-09 02:23:41,374 [Worker-145] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/main/resources
+2015-06-09 02:23:41,375 [Worker-145] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-09 02:23:41,375 [Worker-145] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/test/resources
+2015-06-09 02:24:02,533 [Worker-143] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-09 02:24:02,533 [Worker-143] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/main/resources
+2015-06-09 02:24:02,534 [Worker-143] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-09 02:24:02,535 [Worker-143] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/test/resources
+2015-06-09 02:24:11,041 [Worker-147] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-09 02:24:11,042 [Worker-147] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/main/resources
+2015-06-09 02:24:11,043 [Worker-147] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-09 02:24:11,043 [Worker-147] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/test/resources
+2015-06-09 02:24:21,694 [Worker-143] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-09 02:24:21,694 [Worker-143] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/main/resources
+2015-06-09 02:24:21,695 [Worker-143] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-09 02:24:21,695 [Worker-143] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/test/resources
+2015-06-09 02:24:50,798 [Worker-146] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-09 02:24:50,798 [Worker-146] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/main/resources
+2015-06-09 02:24:50,799 [Worker-146] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-09 02:24:50,800 [Worker-146] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/test/resources
+2015-06-09 02:25:22,637 [Worker-133] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-09 02:25:22,637 [Worker-133] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/main/resources
+2015-06-09 02:25:22,638 [Worker-133] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-09 02:25:22,639 [Worker-133] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/test/resources
+2015-06-09 02:25:50,688 [Worker-148] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-09 02:25:50,688 [Worker-148] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/main/resources
+2015-06-09 02:25:50,689 [Worker-148] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-09 02:25:50,690 [Worker-148] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/test/resources
+2015-06-09 02:33:25,638 [Worker-133] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-09 02:33:25,639 [Worker-133] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/main/resources
+2015-06-09 02:33:25,640 [Worker-133] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-09 02:33:25,640 [Worker-133] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/test/resources
+2015-06-09 02:33:38,042 [Worker-133] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: WeatherStationTest:WeatherStationTest:0.0.1-SNAPSHOT @ /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/pom.xml.
+2015-06-09 02:33:38,711 [Worker-133] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-09 02:33:38,711 [Worker-133] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/main/resources
+2015-06-09 02:33:38,712 [Worker-133] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-09 02:33:38,712 [Worker-133] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/test/resources
+2015-06-09 02:34:28,798 [Worker-133] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-09 02:34:28,798 [Worker-133] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/main/resources
+2015-06-09 02:34:28,799 [Worker-133] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-09 02:34:28,800 [Worker-133] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/test/resources
+2015-06-09 02:36:01,520 [Worker-155] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-09 02:36:01,520 [Worker-155] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/main/resources
+2015-06-09 02:36:01,521 [Worker-155] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-09 02:36:01,521 [Worker-155] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/test/resources
+2015-06-09 02:39:15,648 [Worker-153] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-09 02:39:15,649 [Worker-153] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/main/resources
+2015-06-09 02:39:15,651 [Worker-153] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-09 02:39:15,651 [Worker-153] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/test/resources
+2015-06-09 02:40:42,759 [Worker-153] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: WeatherStationTest:WeatherStationTest:0.0.1-SNAPSHOT @ /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/pom.xml.
+2015-06-09 02:40:42,980 [Worker-153] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/junit/junit/4.12/junit-4.12.pom
+2015-06-09 02:40:43,045 [Worker-153] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/junit/junit/4.12/junit-4.12.pom
+2015-06-09 02:40:43,312 [Worker-153] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/junit/junit/4.12/junit-4.12.jar
+2015-06-09 02:40:43,646 [Worker-153] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/junit/junit/4.12/junit-4.12.jar
+2015-06-09 02:40:43,989 [Worker-153] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-09 02:40:43,990 [Worker-153] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/main/resources
+2015-06-09 02:40:43,990 [Worker-153] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-09 02:40:43,991 [Worker-153] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/test/resources
+2015-06-09 02:40:43,991 [Worker-153] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of WeatherStationTest
+2015-06-09 02:40:43,992 [Worker-153] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for WeatherStationTest
+2015-06-09 02:40:43,994 [Worker-153] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.apache.maven.plugins:maven-clean-plugin:jar:2.5 is missing, no dependency information available
+2015-06-09 02:40:43,998 [Worker-153] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.apache.maven.plugins:maven-install-plugin:jar:2.4 is missing, no dependency information available
+2015-06-09 02:40:44,004 [Worker-153] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-09 02:40:44,006 [Worker-153] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of WeatherStationTest
+2015-06-09 02:40:44,006 [Worker-153] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for WeatherStationTest
+2015-06-09 02:40:44,009 [Worker-153] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-09 02:40:45,294 [Worker-158] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-09 02:40:45,295 [Worker-158] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/main/resources
+2015-06-09 02:40:45,296 [Worker-158] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-09 02:40:45,296 [Worker-158] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/test/resources
+2015-06-09 02:40:51,329 [Worker-152] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-09 02:40:51,329 [Worker-152] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/main/resources
+2015-06-09 02:40:51,330 [Worker-152] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-09 02:40:51,330 [Worker-152] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/test/resources
+2015-06-09 02:42:21,998 [Worker-153] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-09 02:42:21,998 [Worker-153] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/main/resources
+2015-06-09 02:42:21,999 [Worker-153] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-09 02:42:21,999 [Worker-153] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/test/resources
+2015-06-09 02:42:38,999 [Worker-153] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-09 02:42:38,999 [Worker-153] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/main/resources
+2015-06-09 02:42:39,000 [Worker-153] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-09 02:42:39,000 [Worker-153] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/test/resources
+2015-06-09 02:47:18,803 [Worker-153] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-09 02:47:18,804 [Worker-153] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/main/resources
+2015-06-09 02:47:18,805 [Worker-153] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-09 02:47:18,805 [Worker-153] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/test/resources
+2015-06-09 02:47:23,734 [Worker-150] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-09 02:47:23,734 [Worker-150] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/main/resources
+2015-06-09 02:47:23,735 [Worker-150] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-09 02:47:23,735 [Worker-150] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/test/resources
+2015-06-09 02:47:34,567 [Worker-162] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-09 02:47:34,568 [Worker-162] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/main/resources
+2015-06-09 02:47:34,569 [Worker-162] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-09 02:47:34,569 [Worker-162] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/test/resources
+2015-06-09 02:48:08,188 [Worker-160] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-09 02:48:08,189 [Worker-160] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/main/resources
+2015-06-09 02:48:08,190 [Worker-160] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-09 02:48:08,190 [Worker-160] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/test/resources
+2015-06-09 02:49:45,898 [Worker-152] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for WeatherStationTest
+2015-06-09 02:49:46,077 [Worker-162] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-09 02:49:46,077 [Worker-162] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/main/resources
+2015-06-09 02:49:46,078 [Worker-162] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-09 02:49:46,078 [Worker-162] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/test/resources
+2015-06-09 02:51:11,600 [Worker-83] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-09 02:51:11,600 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/main/resources
+2015-06-09 02:51:11,601 [Worker-83] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-09 02:51:11,601 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/franciscoaguilera/Development/Weather Station Test/WeatherStationTest/src/test/resources

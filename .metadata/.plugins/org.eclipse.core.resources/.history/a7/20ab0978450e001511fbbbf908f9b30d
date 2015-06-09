@@ -1,0 +1,18 @@
+.center{
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.center li{
+	font-weight: bold;
+}
+.center li span{
+	font-weight:normal;
+	color: #32B579;
+}
+
+.iconWeatherCondition span{
+	float: right;
+	margin-top: -12px;
+}

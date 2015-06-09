@@ -1,0 +1,7 @@
+var WeatherStationView = function(){
+	this.model = new WeatherStationViewModel(this);
+	this.controller = new WeatherStationViewController(this, this.model);
+	
+	$('#cities').change(this.controller.onChangeCity);
+}  
+

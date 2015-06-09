@@ -1,0 +1,42 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8" pageEncoding="UTF-8"%>
+<%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core"%>
+<!DOCTYPE html>
+<html>
+<head>
+
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+<link href='<c:url value="/views/DesktopView/css/DesktopView.css"></c:url>' rel="stylesheet">
+<link href='<c:url value="/general/css/effects/floatShadow.css"></c:url>' rel="stylesheet">
+
+<title>Welcome ${username}</title>
+
+</head>
+<body>
+	
+	<table class="foldersTable">
+		<tr>
+			<td> <img class="hvr-float-shadow" src=<c:url value="/views/DesktopView/images/folderIcon.png"></c:url>> <div>Resume</div></td>
+			<td> <img class="hvr-float-shadow" src=<c:url value="/views/DesktopView/images/folderIcon.png"></c:url>> <div>Documents</div></td>
+		</tr>
+	</table>
+
+	<div id="menu">
+		<ul id="center">
+			<li><img class="hvr-float-shadow logoFinder" src=<c:url value="/views/DesktopView/images/menuBottom/logoFinder.png"></c:url> onclick="document.location='${pageContext.request.contextPath}/MobilesManagementView'";return false;"></li>
+			<li><img class="hvr-float-shadow logoStandar" src=<c:url value="/views/DesktopView/images/menuBottom/logoCalendar.png"></c:url> onclick="document.location='${pageContext.request.contextPath}/MobilesManagementView'";return false;"></li>
+			<li><img class="hvr-float-shadow logoStandar" src=<c:url value="/views/DesktopView/images/menuBottom/logoSencha.png"></c:url> onclick="document.location='${pageContext.request.contextPath}/MobilesManagementView'";return false;"></li>
+			<li><img class="hvr-float-shadow logoStandar" src=<c:url value="/views/DesktopView/images/menuBottom/logoAngularJS.png"></c:url>></li>
+			<li><img class="hvr-float-shadow logoHtml5" src=<c:url value="/views/DesktopView/images/html5-css3.png"></c:url>></li>
+			<li><img class="hvr-float-shadow logoStandar" src=<c:url value="/views/DesktopView/images/menuBottom/logoPreferences.png"></c:url>></li>
+		</ul>
+	</div>
+
+</body>
+</html>
+
+
+
+
+
+

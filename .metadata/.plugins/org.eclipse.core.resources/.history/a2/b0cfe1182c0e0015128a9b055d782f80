@@ -1,0 +1,17 @@
+var WeatherStationViewModel = function(view){
+	this.view = view;
+	this.services = {
+			consultCityWeather: 'consultCityWeather'
+	}
+	this.consultCityWeather = function(city){
+		$.ajax({
+			url: Constant.server.url+this.services.consultCityWeather, 
+			data:{
+				city: city
+			},
+			success: function(result){
+				$("#div1").html(result);
+			}
+		});
+	}
+}  

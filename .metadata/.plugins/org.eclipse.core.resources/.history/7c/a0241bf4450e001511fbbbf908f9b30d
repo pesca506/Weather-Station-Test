@@ -1,0 +1,38 @@
+var WeatherStationViewModel = function(view){
+	this.view = view;
+	
+	this.params = {
+		urlIcons: 'http://openweathermap.org/img/w/'	
+	};
+	this.services = {
+		consultCityWeather: 'consultCityWeather'
+	};
+	
+	this.consultCityWeather = function(name){
+		var model = this;
+		$.ajax({
+			url: Constant.server.url+this.services.consultCityWeather, 
+			data:{
+				name: name
+			},
+			type: 'POST',
+			dataType: 'json',
+			success: function(json){
+				var cityJson = $.parseJSON(json);
+				
+				$("#name").html(cityJson.name);
+				$("#latitude").html(cityJson.coord.lat);
+				$("#longitude").html(cityJson.coord.lon);
+				if(cityJson.weather[0]){
+					$("#weatherCondition").html(cityJson.weather[0].description);
+					$('#iconWeatherCondition').attr("src", model.params.urlIcons+cityJson.weather[0].icon+'.png');
+				}
+				$("#temperature").html(cityJson.main.temp);
+				$("#temperature_min").html(cityJson.main.temp_min);
+				$("#temperature_max").html(cityJson.main.temp_max);
+				$("#atmosphericPressure").html(cityJson.main.humidity);
+				$("#humidity").html(cityJson.main.humidity);
+			}
+		});
+	}
+}  
